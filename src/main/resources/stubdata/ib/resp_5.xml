@@ -1,0 +1,17 @@
+<result lob="104" env_def="PRODUCTION" gen_date="2019-11-29 03:03:02 PM" ibdoc_version="3.1" engine_type="weblogic" site_location="IB6.RGS.RU:7003" site_instance="IB6.RGS.RU">
+    <program parent_id="8659" program_id="14" program_ver="1" package_date="2019-07-03T16:50:50" policyPeriod_id="21694" status="Stop Requested" gen_type="0" product_id="104" region_format="ru-RU" from_cache="true">
+        <c i="0">
+            <c i="6">
+                <m i="RV PAYMENT NUMBER" v="1"/>
+                <m i="RV PAYMENT SUM" v="50941"/>
+                <m i="RV PAYMENT DATE" v="29.11.2019"/>
+            </c>
+        </c>
+    </program>
+    <stats>
+        <start_time>2019-11-29 03:03:02:0338 PM</start_time>
+        <stop_time>2019-11-29 03:03:02:0341 PM</stop_time>
+        <running_time>3</running_time>
+        <xml_walking>1</xml_walking>
+    </stats>
+</result>

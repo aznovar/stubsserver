@@ -1,0 +1,19 @@
+<rate lob="104">
+    <heading>
+        <program parent_id="8659" program_id="14" program_ver="1"/>
+    </heading>
+    <c i="0" desc="Policy">
+        <m i="405" n="GWOfferingTypeId" v="MAUTOPROTECTION"/>
+        <m i="404" n="GWProductTypeId" v="MKASKO"/>
+        <m i="1" n="CalculationDate" v="29.11.2019"/>
+        <m i="73" n="PolicyPaymentsCount" v="1"/>
+        <m i="98" n="PolicyPremium" v="50941.00"/>
+        <m i="107" n="PolicyNeedToAddInFirstPayment" v="0"/>
+        <m i="108" n="IsNeedBeautifulSchedulePayments" v="1"/>
+        <m i="2" n="PolicyStartDate" v="09.12.2019"/>
+        <m i="3" n="PolicyEndDate" v="08.12.2020"/>
+        <c i="6" desc="Payments">
+            <m i="97" n="PaymentNumber" v="1"/>
+        </c>
+    </c>
+</rate>

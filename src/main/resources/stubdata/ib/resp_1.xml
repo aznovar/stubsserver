@@ -1,0 +1,244 @@
+<result lob="104" env_def="QA" gen_date="2020-02-18 06:24:56 PM" ibdoc_version="3.1" engine_type="weblogic" site_location="IBQA.RGS.RU:7003" site_instance="IBQA.RGS.RU">
+    <program parent_id="8659" program_id="71" program_ver="1" package_date="2020-01-20T15:39:30" status="PASS" gen_type="0" product_id="104" region_format="ru-RU" policyPeriod_id="41701" from_cache="true">
+        <c i="0">
+            <m i="CORRELATIONID" v="af1a6ff4-634c-4aaf-b8cf-f521ba6e25c5"/>
+            <m i="POLICY PREMIUM" v="2225"/>
+            <m i="POLICY PREMIUM WITH ADD AGREEMENTS" v="2360"/>
+            <m i="OWNER FIO FACTOR" v="2"/>
+            <m i="OWNER GENDER" v="Male"/>
+            <m i="INSURANT FIO FACTOR" v="2"/>
+            <m i="INSURANT GENDER" v="Male"/>
+            <m i="IS INSURANT REG AND PASSPORT REG EQUAL" v="0"/>
+            <m i="IS INSURANT REG AND POLICY REG EQUAL" v="0"/>
+            <c i="3">
+                <m i="KASKO CONTRACT OPTION ID" v="1"/>
+                <m i="NEW TP PREMIUM" v="0"/>
+                <m i="KASKO KA" v="1"/>
+                <m i="KASKO KC" v="1"/>
+                <m i="KASKO KPR" v="1"/>
+                <m i="KASKO KACT" v="1"/>
+                <m i="UW VEHICLE INSPECTION NEEDED" v="0"/>
+                <m i="UW INSPECTION AGREEMENT NEEDED" v="0"/>
+                <m i="VEHICLE PRICE FOR TRANSDEKRA ID" v="0"/>
+                <m i="VEHICLE PRICE MIN FOR MODEL ID" v="0"/>
+                <m i="VEHICLE PRICE MAX FOR MODEL ID" v="0"/>
+                <m i="VEHICLE AGE" v="4"/>
+                <m i="VEHICLE DAMAGE SUM LIMIT1" v="165000"/>
+                <m i="VEHICLE AUDATEX CALCULATIONS COUNT" v="0"/>
+                <m i="VEHICLE AUDATEX DAYS FROM LAST CALC" v="-2"/>
+                <m i="VEHICLE AUDATEX WAS TOTAL" v="0"/>
+                <m i="DRIVER WORST COEFF" v="0"/>
+                <m i="DRIVER WORST AGE" v="30"/>
+                <m i="DRIVER WORST EXP" v="0"/>
+                <m i="DRIVER WORST FIO FACTOR" v="2"/>
+                <m i="DRIVER WORST GENDER" v="Male"/>
+                <m i="DRIVER WORST K6 HISTORY CLASS ID" v="1"/>
+                <m i="DRIVER WORST KBM CLASS" v="3"/>
+                <m i="DRIVER WORST LOSSES COUNT" v="0"/>
+                <m i="CALCULATED FRANCHISE ABS" v="0"/>
+                <m i="FAMILY STATUS FINAL" v="6"/>
+                <m i="CALCULATED FRANCHISE PCT" v="0"/>
+                <m i="KASKO VEHICLE TARIFF" v="1.3485"/>
+                <m i="KASKO VEHICLE PREMIUM CALC TYPE DESC" v="Премия рассчитана в соответствии с ТР"/>
+                <c i="1" di="1">
+                    <m i="DRIVER COEFF FOR WORST" v="0"/>
+                    <m i="IS DRIVER WORST" v="1"/>
+                </c>
+                <c i="7">
+                    <m i="ADDEQUIPMENTID" v="1"/>
+                    <m i="ADDEQUIPMENTLIABILITY" v="10000.00"/>
+                    <m i="ADD EQUIPMENT PREMIUM" v="135"/>
+                </c>
+                <c i="28">
+                    <m i="VEHICLE COVERAGE ID" v="MDAMAGENOTATFAULT"/>
+                    <m i="VEHICLE COVERAGE TYPE NAME" v="ДТП-Потерпевший"/>
+                    <m i="VEHICLE COVERAGE LIABILITY" v="165000"/>
+                    <m i="VEHICLE COVERAGE PREMIUM" v="2225"/>
+                    <m i="VEHICLE MODEL LIABILITY INDEX" v="20"/>
+                    <m i="VEH COV FACTOR K3" v="1"/>
+                    <m i="VEH COV FACTOR K4 FRANCHISE ABS" v="1"/>
+                    <m i="VEH COV FACTOR K4 FRANCHISE ID" v="1"/>
+                    <m i="VEH COV FACTOR K4 FRANCHISE ID DRV AGE" v="1"/>
+                    <m i="VEH COV FACTOR K4 FRANCHISE ID PAY COUNT" v="1"/>
+                    <m i="VEH COV FACTOR K4 FRANCHISE PCT" v="1"/>
+                    <m i="VEH COV FACTOR K4 FRANCHISE PCT ABS" v="1"/>
+                    <m i="VEH COV FACTOR K4 FRANCHISE VALUE TYPE" v="1"/>
+                    <m i="VEH COV FACTOR K6 HISTORY" v="1.0151"/>
+                    <m i="VEH COV FACTOR K6 KBM" v="1"/>
+                    <m i="VEH COV FACTOR K7 KSR" v="1"/>
+                    <m i="VEH COV FACTOR K7 KVOZV" v="0"/>
+                    <m i="VEH COV FACTOR K7 KY" v="0"/>
+                    <m i="VEH COV FACTOR K7 PAYMENT METHOD" v="1"/>
+                    <m i="VEH COV FACTOR KBANK CREDIT" v="1"/>
+                    <m i="VEH COV FACTOR KBANK CREDIT VEH AGE" v="1"/>
+                    <m i="VEH COV FACTOR KBANK CREDIT VEH LIAB" v="1"/>
+                    <m i="VEH COV FACTOR KBANK CREDIT VEH POWER" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER AGE" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER AGE AVG LIAB" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER EXP" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER FAMILY" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER FIO" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER FIO BRAND" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER GENDER" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER GENDER AGE" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER GENDER EXP" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER GENDER FIO" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER GENDER LIAB IDX" v="1"/>
+                    <m i="VEH COV FACTOR KDRIVER GENDER POWER" v="1"/>
+                    <m i="VEH COV FACTOR KINSURANT AGE" v="1"/>
+                    <m i="VEH COV FACTOR KINSURANT AUD COUNT" v="0.75"/>
+                    <m i="VEH COV FACTOR KINSURANT AUD DAYS" v="1"/>
+                    <m i="VEH COV FACTOR KINSURANT FIO" v="1"/>
+                    <m i="VEH COV FACTOR KINSURANT GEN FEMALE" v="1"/>
+                    <m i="VEH COV FACTOR KINSURANT GENDER" v="1"/>
+                    <m i="VEH COV FACTOR KINSURANT REGION" v="0.938"/>
+                    <m i="VEH COV FACTOR KLIMITEDDRIVERS" v="5"/>
+                    <m i="VEH COV FACTOR KR" v="0.8882"/>
+                    <m i="VEH COV FACTOR KRS" v="1"/>
+                    <m i="VEH COV FACTOR KSS VEH LIAB INDEX" v="0.8901"/>
+                    <m i="VEH COV FACTOR KSS VEH LIABILITY" v="1.1108"/>
+                    <m i="VEH COV FACTOR KUSEPURPOSE" v="1"/>
+                    <m i="VEH COV FACTOR KVEHAGE AGE" v="0.8424"/>
+                    <m i="VEH COV FACTOR KVEHAGE AGE POWER" v="1"/>
+                    <m i="VEH COV FACTOR KVEHPOWER" v="1.0053"/>
+                    <m i="VEH COV FACTOR TB BASE RATE" v="6689.2467"/>
+                    <m i="VEH COV FACTOR TB VEH AVG LIABILITY" v="1"/>
+                    <m i="VEH COV FACTOR TB VEH AVG POWER" v="1"/>
+                    <m i="VEH COV FACTOR TB VEH BRAND" v="1.0565"/>
+                    <m i="VEH COV FACTOR TB VEH CATEGORY" v="1"/>
+                    <m i="VEH COV FACTOR TB VEH CLASS" v="1"/>
+                    <m i="VEH COV FACTOR TB VEH COUNTRY" v="0.658"/>
+                    <m i="VEH COV FACTOR TB VEH FEMALE PRC" v="1"/>
+                    <m i="VEH COV FACTOR TB VEH KAR" v="1"/>
+                    <m i="VEH COV FACTOR TB VEH MODEL" v="1"/>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="1"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Тб"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="4650.2105"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="2"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Кр"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="0.8882"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="3"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="КвозрастТС"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="0.8424"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="4"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="КмощностьТС"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1.0053"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="5"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Кбанк"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1.0000"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="6"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Ксс"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="0.9887"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="7"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Кстрахователь"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="0.7035"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="8"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Кводитель"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1.0000"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="9"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Кмультидрайв"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="5"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="11"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="К7"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1.0000"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="12"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="К3"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="13"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Крс"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="14"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="К4"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1.0000"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="15"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Кцель"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="16"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Ку"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="0.0000"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="17"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Кср"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1.0000"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="18"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Квозв"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="0.0000"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="10"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="К6"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1.0151"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="70"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="К5"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="71"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Ка"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="72"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Кс"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="73"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Кпр"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="74"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Какции"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1"/>
+                    </c>
+                    <c i="29" di="1">
+                        <m i="VEHICLE COVERAGE COEFFICIENT ID" v="75"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT NAME" v="Кпус"/>
+                        <m i="VEHICLE COVERAGE COEFFICIENT VALUE" v="1"/>
+                    </c>
+                </c>
+            </c>
+        </c>
+    </program>
+    <stats>
+        <start_time>2020-02-18 06:24:56:0935 PM</start_time>
+        <stop_time>2020-02-18 06:24:57:0615 PM</stop_time>
+        <running_time>680</running_time>
+        <xml_walking>1</xml_walking>
+    </stats>
+</result>

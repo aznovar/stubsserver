@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<S:Envelope xmlns:S="http://schemas.xmlsoap.org/soap/envelope/">
+    <S:Body>
+        <ns0:ProcessIBResponse xmlns:ns0="http://com.oracle.ins.ru.sr.ui.webservices">
+            <return><![CDATA[<result project_id='104' env_def='QA' gen_date='2019-05-28 07:16:29 PM' ibdoc_version='3.1' engine_type='weblogic' site_location='IBQA.RGS.RU:7003' site_instance='IBQA.RGS.RU'><program parent_id='8659' program_id='35' program_ver='1' package_date='2019-04-03T19:23:54' status='PASS' gen_type='0' product_id='104' region_format='ru-RU'  from_cache='true'><c i='0' ><m i='POLICY CANCEL CAN PROCEED' v='1'/><m i='POLICY HAS OPEN CLAIM' v='0'/><m i='POLICY CANCEL RVD' v='0.35'/><m i='POLICY CANCEL SUM' v='3365.75'/><m i='POLICY UW FILIAL NEEDED' v='0'/><m i='POLICY UW LAWYER NEEDED' v='0'/><c i='30' ><m i='POLICY COVERAGE TYPE ID' v='MMEDPAY'/><m i='POLICY COVERAGE RETURN SUM' v='961.64'/></c><c i='3' ><c i='28' ><m i='VEHICLE COVERAGE TYPE ID' v='MDAMAGEATFAULT'/><m i='VEHICLE COVERAGE RETURN SUM' v='2404.11'/></c></c></c></program><stats><start_time>2019-05-28 07:16:29:0651 PM</start_time><stop_time>2019-05-28 07:16:33:0119 PM</stop_time><running_time>3468</running_time><xml_walking>2</xml_walking></stats></result>]]></return>
+        </ns0:ProcessIBResponse>
+    </S:Body>
+</S:Envelope>

@@ -1,0 +1,123 @@
+<rate lob="104">
+    <heading>
+        <program parent_id="8659" program_id="71" policyPeriod_id="21694"/>
+    </heading>
+    <c i="0" desc="Policy">
+        <m i="109" n="ActivePoliciesVehiclesCount" v="1"/>
+        <m i="46" n="BranchCode" v="45207600"/>
+        <m i="1" n="CalculationDate" v="29.11.2019"/>
+        <m i="45" n="CascoTerritoryId" v="52"/>
+        <m i="264" n="ClientSystem" v="GWPC"/>
+        <m i="246" n="CorrelationId" v="c7c32010-d0cb-4b3c-bd3d-2530d48793f4"/>
+        <m i="405" n="GWOfferingTypeId" v="MAUTOPROTECTION"/>
+        <m i="404" n="GWProductTypeId" v="MKASKO"/>
+        <m i="57" n="InsurantBirthDate" v="05.05.1945"/>
+        <m i="352" n="InsurantContactPhone" v="79534155107"/>
+        <m i="62" n="InsurantDocumentNumber" v="724061"/>
+        <m i="61" n="InsurantDocumentSeries" v="2217"/>
+        <m i="60" n="InsurantDocumentTypeId" v="012"/>
+        <m i="54" n="InsurantFirstName" v="ЭДУАРД"/>
+        <m i="56" n="InsurantLastName" v="ЧАПРАК"/>
+        <m i="74" n="InsurantRegion" v="52"/>
+        <m i="55" n="InsurantSecondName" v="МИХАЙЛОВИЧ"/>
+        <m i="36" n="InsurantSubjectTypeId" v="1"/>
+        <m i="608" n="IsFromOtherCompany" v="0"/>
+        <m i="96" n="IsInsurantKeyClient" v="0"/>
+        <m i="269" n="IsNonTypicalDocuments" v="0"/>
+        <m i="95" n="IsPreCalculation" v="0"/>
+        <m i="31" n="OwnerBirthDate" v="05.05.1945"/>
+        <m i="23" n="OwnerDocumentNumber" v="724061"/>
+        <m i="22" n="OwnerDocumentSeries" v="2217"/>
+        <m i="18" n="OwnerDocumentTypeId" v="012"/>
+        <m i="233" n="OwnerFirstName" v="ЭДУАРД"/>
+        <m i="232" n="OwnerLastName" v="ЧАПРАК"/>
+        <m i="387" n="OwnerRegion" v="52"/>
+        <m i="234" n="OwnerSecondName" v="МИХАЙЛОВИЧ"/>
+        <m i="4" n="OwnerSubjectTypeId" v="1"/>
+        <m i="3" n="PolicyEndDate" v="08.12.2020"/>
+        <m i="73" n="PolicyPaymentsCount" v="1"/>
+        <m i="2" n="PolicyStartDate" v="09.12.2019"/>
+        <m i="84" n="ProgramId" v="1045"/>
+        <m i="40" n="SaleChannelType2008Id" v="131"/>
+        <c i="3" desc="Vehicles">
+            <m i="86" n="IsFirstRisk" v="0"/>
+            <m i="170" n="IsPrefProlongation" v="0"/>
+            <m i="91" n="IsUsedTrailer" v="0"/>
+            <m i="52" n="Ka" v="1.0000"/>
+            <m i="72" n="Kc" v="1.00"/>
+            <m i="78" n="LimitedDrivers" v="1"/>
+            <m i="76" n="PaymentMethodId" v="13"/>
+            <m i="48" n="VehicleCost" v="1500000.00"/>
+            <m i="6" n="VehicleEngineHP" v="335.00"/>
+            <m i="59" n="VehicleGosRegNum" v="А096АА52"/>
+            <m i="75" n="VehicleGosRegNumRegion" v="52"/>
+            <m i="111" n="VehicleId" v="1"/>
+            <m i="89" n="VehicleLiability" v="1500000.00"/>
+            <m i="265" n="VehicleMainDocumentShortName" v="ПТС"/>
+            <m i="353" n="VehicleMainDocumentSeries" v="39НУ"/>
+            <m i="354" n="VehicleMainDocumentNumber" v="081699"/>
+            <m i="262" n="VehicleMileage" v="45000"/>
+            <m i="100" n="VehiclePTSDate" v="01.01.2014"/>
+            <m i="296" n="VehiclePTSIsDuplicate" v="0"/>
+            <m i="5" n="VehicleRsaModelId" v="125006387"/>
+            <m i="8" n="VehicleUsagePurposeId" v="1"/>
+            <m i="28" n="VehicleVIN" v="XWEGH41DBF0000563"/>
+            <m i="51" n="VehicleYear" v="2014"/>
+            <m i="609" n="IsNewVehicleAutodealer" v="0"/>
+            <c i="13" desc="Agents">
+                <m i="145" n="AgentINN" v="526211952609"/>
+                <m i="146" n="AgentLNR" v="1644161"/>
+                <m i="148" n="AgentSubjectTypeId" v="1"/>
+            </c>
+            <c i="28" desc="VehicleCoverages">
+                <m i="410" n="GWVehicleCoverageTypeId" v="MDAMAGEATFAULT"/>
+                <m i="411" n="VehicleCoverageId" v="1"/>
+                <m i="412" n="VehicleCoverageLiability" v="1500000.00"/>
+            </c>
+            <c i="28" desc="VehicleCoverages">
+                <m i="410" n="GWVehicleCoverageTypeId" v="MDAMAGEBYTHIRDPARTYACTIONS"/>
+                <m i="411" n="VehicleCoverageId" v="2"/>
+                <m i="412" n="VehicleCoverageLiability" v="1500000.00"/>
+            </c>
+            <c i="28" desc="VehicleCoverages">
+                <m i="410" n="GWVehicleCoverageTypeId" v="MDAMAGENOTATFAULT"/>
+                <m i="411" n="VehicleCoverageId" v="3"/>
+                <m i="412" n="VehicleCoverageLiability" v="1500000.00"/>
+            </c>
+            <c i="28" desc="VehicleCoverages">
+                <m i="410" n="GWVehicleCoverageTypeId" v="MGLASSDAMAGE"/>
+                <m i="411" n="VehicleCoverageId" v="4"/>
+                <m i="412" n="VehicleCoverageLiability" v="1500000.00"/>
+            </c>
+            <c i="28" desc="VehicleCoverages">
+                <m i="410" n="GWVehicleCoverageTypeId" v="MOTHERDAMAGE"/>
+                <m i="411" n="VehicleCoverageId" v="5"/>
+                <m i="412" n="VehicleCoverageLiability" v="1500000.00"/>
+            </c>
+            <c i="28" desc="VehicleCoverages">
+                <m i="410" n="GWVehicleCoverageTypeId" v="MTHEFT"/>
+                <m i="411" n="VehicleCoverageId" v="6"/>
+                <m i="412" n="VehicleCoverageLiability" v="1500000.00"/>
+            </c>
+            <c i="28" desc="VehicleCoverages">
+                <m i="410" n="GWVehicleCoverageTypeId" v="MTOTALDAMAGE"/>
+                <m i="411" n="VehicleCoverageId" v="7"/>
+                <m i="412" n="VehicleCoverageLiability" v="1500000.00"/>
+            </c>
+            <c i="1" desc="Drivers">
+                <m i="14" n="BirthDate" v="05.05.1945"/>
+                <m i="202" n="DriverDocumentTypeId" v="017"/>
+                <m i="15" n="DriverDrivingStartDate" v="19.04.1974"/>
+                <m i="63" n="DriverFirstName" v="ЭДУАРД"/>
+                <m i="135" n="DriverId" v="pcrprod:28249"/>
+                <m i="65" n="DriverLastName" v="ЧАПРАК"/>
+                <m i="20" n="LicenseNumber" v="275353"/>
+                <m i="19" n="LicenseSeries" v="5206"/>
+                <m i="64" n="DriverSecondName" v="МИХАЙЛОВИЧ"/>
+            </c>
+            <c i="5" desc="Alarms">
+                <m i="94" n="AlarmId" v="1312004"/>
+            </c>
+        </c>
+    </c>
+</rate>

@@ -1,0 +1,57 @@
+<result lob="104" env_def="QA" gen_date="2020-03-10 11:53:38 AM" ibdoc_version="3.1" engine_type="weblogic" site_location="IBQA.RGS.RU:7003" site_instance="IBQA.RGS.RU">
+    <program parent_id="8659" program_id="35" program_ver="1" package_date="2020-01-31T18:22:25" status="PASS" gen_type="0" product_id="104" region_format="ru-RU" policyPeriod_id="70282" from_cache="true">
+        <c i="0">
+            <m i="CORRELATIONID" v="ef11a4ba-368f-425b-869f-b8faf3a8d243"/>
+            <m i="POLICY CANCEL CAN PROCEED" v="1"/>
+            <m i="POLICY HAS OPEN CLAIM" v="0"/>
+            <m i="POLICY CANCEL RVD" v="999"/>
+            <m i="POLICY CANCEL SUM" v="999"/>
+            <m i="POLICY UW FILIAL NEEDED" v="1"/>
+            <m i="POLICY UW LAWYER NEEDED" v="0"/>
+            <m i="PREV POLICY CLAIMS PAYED SUM" v="0"/>
+            <c i="3">
+                <c i="28">
+                    <m i="VEHICLE COVERAGE TYPE ID" v="MDAMAGEATFAULT"/>
+                    <m i="VEHICLE COVERAGE RVD" v="0.35"/>
+                    <m i="VEHICLE COVERAGE RETURN SUM" v="0.00"/>
+                </c>
+                <c i="28">
+                    <m i="VEHICLE COVERAGE TYPE ID" v="MDAMAGEBYTHIRDPARTYACTIONS"/>
+                    <m i="VEHICLE COVERAGE RVD" v="0.35"/>
+                    <m i="VEHICLE COVERAGE RETURN SUM" v="0.00"/>
+                </c>
+                <c i="28">
+                    <m i="VEHICLE COVERAGE TYPE ID" v="MDAMAGENOTATFAULT"/>
+                    <m i="VEHICLE COVERAGE RVD" v="0.35"/>
+                    <m i="VEHICLE COVERAGE RETURN SUM" v="0.00"/>
+                </c>
+                <c i="28">
+                    <m i="VEHICLE COVERAGE TYPE ID" v="MGLASSDAMAGE"/>
+                    <m i="VEHICLE COVERAGE RVD" v="0.35"/>
+                    <m i="VEHICLE COVERAGE RETURN SUM" v="0.00"/>
+                </c>
+                <c i="28">
+                    <m i="VEHICLE COVERAGE TYPE ID" v="MOTHERDAMAGE"/>
+                    <m i="VEHICLE COVERAGE RVD" v="0.35"/>
+                    <m i="VEHICLE COVERAGE RETURN SUM" v="0.00"/>
+                </c>
+                <c i="28">
+                    <m i="VEHICLE COVERAGE TYPE ID" v="MTHEFT"/>
+                    <m i="VEHICLE COVERAGE RVD" v="0.35"/>
+                    <m i="VEHICLE COVERAGE RETURN SUM" v="0.00"/>
+                </c>
+                <c i="28">
+                    <m i="VEHICLE COVERAGE TYPE ID" v="MTOTALDAMAGE"/>
+                    <m i="VEHICLE COVERAGE RVD" v="0.35"/>
+                    <m i="VEHICLE COVERAGE RETURN SUM" v="999"/>
+                </c>
+            </c>
+        </c>
+    </program>
+    <stats>
+        <start_time>2020-03-10 11:53:38:0479 AM</start_time>
+        <stop_time>2020-03-10 11:53:44:0286 AM</stop_time>
+        <running_time>5807</running_time>
+        <xml_walking>3</xml_walking>
+    </stats>
+</result>
